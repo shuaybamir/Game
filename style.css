@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(246, 244, 244);
+  color: white;
+  font-family: Arial;
+}
+button{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: hsla(126, 78%, 44%, 0.662) 3px solid ;
+  cursor: pointer;a
+}
+img{
+  width: 30px;
+  height: 30px;
+}
+p{
+  color: black;
+}
+#Reset-btn{
+  border: none;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+
+}
+#Reset-btn:hover{
+  background-color: rgb(64, 10, 10);
+  color: green;
+  
+}
